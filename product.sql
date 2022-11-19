@@ -1,0 +1,1 @@
+INSERT INTO `product` VALUES (1, '水果', '香蕉', '0xf834FAa6C7B2Dc8AA03dC57767A0104858C81a46', 11.0, 'acsd f', '\\img\\fruits-img1.png', '2022-06-02', '2022-06-05', 2, NULL, '0xd6aaa55256e2137359aef62ad015f310f6a3e1337746955eb3a5c4f47554c13e');
